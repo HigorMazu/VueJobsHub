@@ -1,0 +1,68 @@
+
+📦 VUEJOBSHUB - TUTORIAL DE INSTALAÇÃO E EXECUÇÃO LOCAL
+
+Este documento explica como rodar o projeto VueJobsHub localmente, incluindo o frontend com Vue.js e a API com JSON Server.
+
+---
+
+✅ PRÉ-REQUISITOS
+- Node.js instalado: https://nodejs.org
+- NPM instalado (vem com o Node)
+- Git instalado: https://git-scm.com
+- JSON Server instalado globalmente
+
+Para instalar o JSON Server:
+npm install -g json-server
+
+---
+
+▶️ COMO CLONAR O PROJETO
+
+1. Abra o terminal e rode:
+git clone https://github.com/HigorMazu/VueJobsHub.git
+cd VueJobsHub
+
+---
+
+📦 INSTALAR AS DEPENDÊNCIAS
+
+2. Instale os pacotes do projeto:
+npm install
+
+---
+
+🚀 RODAR O FRONTEND (VUE)
+
+3. Rode o Vite:
+run dev -- --port 3000
+
+O frontend será iniciado em:
+http://localhost:3000
+
+---
+
+🛠️ RODAR A API FAKE COM JSON SERVER
+
+4. Rode a API:
+npm run server
+
+A API ficará disponível em:
+http://localhost:8000/jobs
+
+---
+
+✅ ACESSOS
+
+Frontend: http://localhost:3000 
+API de vagas (GET): http://localhost:8000/jobs  
+Cadastrar vaga (POST): http://localhost:8000/jobs
+
+---
+
+📌 DICA FINAL
+
+- Altere ou edite o jobs.json para modificar as vagas.
+
+---
+
+🧑‍💻 Projeto desenvolvido por Higor Mazucato
