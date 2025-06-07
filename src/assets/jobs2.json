@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Vue Developer",
+    "type": "Full-Time",
+    "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+    "location": "Boston, MA",
+    "salary": "$70K – $80K",
+    "company": {
+      "name": "NewTek Solutions",
+      "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment."
+    },
+    "contactEmail": "contact@tekSolutions.com",
+    "contactPhone": "555-555-5555"
+  },
+  {
+    "id": 2,
+    "title": "Junior Vue Developer",
+    "type": "Part-Time",
+    "description": "Assist in the development and maintenance of Vue.js applications under supervision. Ideal for students or recent grads.",
+    "location": "Remote",
+    "salary": "$20/hour",
+    "company": {
+      "name": "DevStarters Inc.",
+      "description": "We are passionate about giving opportunities to new developers and helping them grow in the tech industry."
+    },
+    "contactEmail": "hr@devstarters.io",
+    "contactPhone": "555-123-4567"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Vue Developer",
+    "type": "Full-Time",
+    "description": "Work on both frontend and backend systems using Vue.js and Node.js. Must be experienced with REST APIs and MongoDB.",
+    "location": "San Francisco, CA",
+    "salary": "$90K – $100K",
+    "company": {
+      "name": "CloudX",
+      "description": "CloudX builds scalable cloud applications with modern stacks for global clients."
+    },
+    "contactEmail": "careers@cloudx.io",
+    "contactPhone": "555-777-8888"
+  },
+  {
+    "id": 4,
+    "title": "Freelance Vue Consultant",
+    "type": "Contract",
+    "description": "Short-term Vue consulting for optimizing performance and implementing best practices.",
+    "location": "Remote",
+    "salary": "$50/hour",
+    "company": {
+      "name": "OptimDev",
+      "description": "We help businesses improve the performance and maintainability of their front-end code."
+    },
+    "contactEmail": "projects@optimdev.com",
+    "contactPhone": "555-909-0000"
+  },
+  {
+    "id": 5,
+    "title": "Mid-Level Vue Developer",
+    "type": "Full-Time",
+    "description": "Looking for a Vue developer with 2+ years experience to maintain and expand internal admin systems.",
+    "location": "Austin, TX",
+    "salary": "$60K – $70K",
+    "company": {
+      "name": "TechRoots",
+      "description": "TechRoots builds internal tools for small businesses in the US, focusing on automation and usability."
+    },
+    "contactEmail": "jobs@techroots.us",
+    "contactPhone": "555-234-9876"
+  },
+  {
+    "id": 6,
+    "title": "Vue.js Developer",
+    "type": "Full-Time",
+    "description": "Seeking an experienced Vue.js developer to work on our single-page applications, improve component reuse, and contribute to UI/UX enhancements.",
+    "location": "New York, NY",
+    "salary": "$75K – $85K",
+    "company": {
+      "name": "UIHub",
+      "description": "UIHub focuses on creating modern, performant user interfaces for enterprise applications across finance and healthcare industries."
+    },
+    "contactEmail": "talent@uihub.com",
+    "contactPhone": "555-321-4321"
+  }
+]
