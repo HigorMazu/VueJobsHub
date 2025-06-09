@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-| [VueJobsHub Preview](./src/assets/logo.png) |
+| [VueJobsHub Preview](./src/assets/Preview.png) |
 [VueJobsHub Preview Jobs](./src/assets/Jobs.png) |
 
 ---
