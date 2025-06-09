@@ -1,29 +1,48 @@
-# Vue1
+# 💼 VueJobsHub
 
-This template should help get you started developing with Vue 3 in Vite.
+**VueJobsHub** é uma plataforma moderna de listagem e cadastro de vagas de emprego, desenvolvida com **Vue.js** no frontend e uma API fake com **JSON Server** no backend. O projeto simula um sistema completo de empregos, com design responsivo e foco em experiência do usuário.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📸 Preview
 
-## Customize configuration
+| [VueJobsHub Preview](./src/assets/logo.png) |
+[VueJobsHub Preview Jobs](./src/assets/Jobs.png) |
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🚀 Funcionalidades
 
-```sh
-npm install
-```
+- ✅ Listagem de vagas com visual profissional
+- ✅ Cadastro de novas vagas
+- ✅ Visualização detalhada de cada vaga
+- ✅ Edição e exclusão de vagas existentes
+- ✅ Integração com JSON Server para simular API REST
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## 🛠️ Tecnologias Utilizadas
 
-### Compile and Minify for Production
+### 🔷 Frontend
+- [Vue.js 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript
+- Tailwind CSS (opcional)
+- Vue Router
 
-```sh
-npm run build
-```
+### 🔶 Backend (Fake API)
+- [JSON Server](https://github.com/typicode/json-server)
+- Node.js
+
+---
+
+📌 Observações
+
+Este projeto simula um sistema de anúncios de vagas.
+
+Pode ser facilmente estendido para uso com backend real (Node, Mongo, PostgreSQL, etc).
+
+---
+
+🙋‍♂️ Autor
+Desenvolvido por Higor Mazucato
